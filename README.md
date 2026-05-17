@@ -37,6 +37,7 @@ The system turns those inputs into a build packet:
 ## Key Docs
 
 - [Premium Site OS Methodology](docs/premium-site-os-methodology.md)
+- [Disciplines, Methods, and Powers Register](docs/disciplines-methods-powers-register.md)
 - [Multisource Adaptive Site OS](docs/multisource-adaptive-site-os.md)
 - [MVP Essentials](docs/mvp-essential-workflows.md)
 - [Client Intake Form](docs/client-intake-form.md)
