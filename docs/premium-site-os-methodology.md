@@ -6,14 +6,34 @@ Date: 2026-05-17
 
 Premium Site OS is a system for creating high-end, animated web designs without falling into generic AI website patterns.
 
+It is multi-source by design. One image is only one entry point. The system can also use live URLs, competitor sites, existing code, product screenshots, transcripts, design-system references, brand documents, and current trend/taste research.
+
 The central distinction:
 
 - Weak workflow: ask AI to invent brand, layout, copy, motion, responsiveness, and implementation all at once.
-- Strong workflow: lock creative direction first, encode it into a design bible, then build from a complete packet.
+- Strong workflow: ingest the right evidence, lock creative direction, encode it into a design bible, then build from a complete packet.
 
 The goal is a one-shot build packet, not a magical one-prompt website.
 
 ## Apex Workflow
+
+### 0. Multisource Intake
+
+Start by identifying what kind of source material is available:
+
+- One image
+- Live website URL
+- Competitor/reference URL
+- Existing site to modernize
+- Transcript or design walkthrough
+- Brand guide
+- Product screenshots
+- Moodboard
+- Current trend scan
+- Design-system reference
+- Blank concept
+
+Each source gets routed differently. A URL should be deconstructed; an image should be visually interpreted; a transcript should be converted into methodology; a trend scan should influence decisions without taking over the brand.
 
 ### 1. Brand Diagnosis
 
@@ -27,7 +47,20 @@ Capture the commercial truth before visuals:
 
 This prevents a beautiful but pointless site.
 
-### 2. Premium Mode Selection
+### 2. Trend and Taste Intelligence
+
+Before choosing the design lane, scan the current taste environment:
+
+- Recent high-quality sites in the category
+- Award/gallery patterns from sources like Awwwards, FWA, Webflow showcases, Land-book, Godly, Mobbin, and curated design libraries
+- Current trend writing from credible design sources
+- Audience-specific taste signals
+- Industry conversion norms
+- Anti-trends and fatigue patterns
+
+Trend signals are weighted, not obeyed. They should influence choices only when they support the brand, audience, and conversion goal.
+
+### 3. Premium Mode Selection
 
 Pick one dominant lane:
 
@@ -42,7 +75,30 @@ Pick one dominant lane:
 
 Do not mix too many modes. Premium work usually feels intentional because it commits.
 
-### 3. Anti-Reference List
+### 4. Reference Transformation Rules
+
+References can be used, including live websites, but the system must transform rather than copy.
+
+Allowed:
+
+- Analyze information architecture
+- Extract pacing and section logic
+- Study interaction patterns
+- Learn density, hierarchy, and conversion strategy
+- Rebuild a user's own existing site when they own the content
+- Create an original design inspired by multiple references
+
+Not allowed:
+
+- Copy third-party source code
+- Copy logos, brand identity, images, video, or proprietary assets
+- Copy exact text
+- Recreate a distinctive page so closely that it functions as a substitute
+- Preserve another brand's trade dress or identity
+
+Methodology can be reverse-engineered. Expression must be transformed.
+
+### 5. Anti-Reference List
 
 Define what the system refuses to produce:
 
@@ -58,7 +114,7 @@ Define what the system refuses to produce:
 
 The anti-reference list is as important as the inspiration list.
 
-### 4. Visual Composition Seed
+### 6. Visual Composition Seed
 
 Prompt for a composition system, not a website template.
 
@@ -73,7 +129,7 @@ Generate:
 
 Core rule: generated images/videos provide the cinematic world; coded HTML provides the interactive interface.
 
-### 5. Motion as Product Design
+### 7. Motion as Product Design
 
 Motion needs a job:
 
@@ -86,7 +142,7 @@ Motion needs a job:
 
 Prefer one signature motion moment and a few restrained supporting details.
 
-### 6. Art Bible / DESIGN.md
+### 8. Art Bible / DESIGN.md
 
 Extract the visual direction into durable rules:
 
@@ -105,7 +161,7 @@ Extract the visual direction into durable rules:
 
 This is the system memory for the builder.
 
-### 7. Section Storyboard
+### 9. Section Storyboard
 
 Plan the page like a film:
 
@@ -127,7 +183,7 @@ Each section gets:
 - Proof asset
 - Mobile behavior
 
-### 8. Variant Lab
+### 10. Variant Lab
 
 Generate variants only where decisions are high-value:
 
@@ -140,7 +196,7 @@ Generate variants only where decisions are high-value:
 
 Do not variant every section. Too many variants create chaos.
 
-### 9. Signature Moment
+### 11. Signature Moment
 
 Every premium site should have one memorable device:
 
@@ -155,11 +211,14 @@ Every premium site should have one memorable device:
 
 One major moment is usually enough.
 
-### 10. Build Packet
+### 12. Build Packet
 
 The one-shot packet contains:
 
 - Business brief
+- Source intake map
+- Trend/taste scan summary
+- Reference transformation notes
 - Premium mode
 - Art bible
 - Assets list
@@ -175,7 +234,7 @@ The one-shot packet contains:
 - Anti-slop checklist
 - QA rubric
 
-### 11. Fidelity and QA Pass
+### 13. Fidelity and QA Pass
 
 Compare implementation against intention:
 
@@ -188,9 +247,12 @@ Compare implementation against intention:
 - Performance
 - Conversion clarity
 - Originality
+- Trend fit
+- Reference distance
 
 ## What This Fixes
 
+- Stale taste: fixed by trend/taste intelligence with recency checks.
 - Hero overpowering business goal: fixed by diagnosis and storyboard.
 - Video destroying performance: fixed by compression, poster, reduced-motion fallback, mobile-specific assets.
 - Mobile being late: fixed by mobile reference and mobile motion planning at seed stage.
@@ -199,8 +261,9 @@ Compare implementation against intention:
 - Too many variants: fixed by high-leverage-only varianting.
 - Premium becoming visual excess: fixed by one signature moment and restraint elsewhere.
 - Copying references: fixed by methodology extraction rather than identity copying.
+- One-input rigidity: fixed by routing images, URLs, transcripts, code, and trend sources through different pathways.
 
 ## North Star
 
-Create taste first. Encode taste second. Build third. Critique fourth.
+Gather evidence first. Create taste second. Encode taste third. Build fourth. Critique continuously.
 

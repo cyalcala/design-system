@@ -13,7 +13,60 @@ Use this packet when handing a premium site concept to Codex or another coding a
 - Competitors or references:
 - Anti-references:
 
-## 2. Premium Mode
+## 2. Source Inventory
+
+List all available inputs:
+
+- Images:
+- Live URLs:
+- User-owned existing sites:
+- Competitor/reference sites:
+- Transcripts:
+- Brand guides:
+- Product screenshots:
+- Existing code/repo:
+- Moodboards:
+- Trend sources:
+- Design-system references:
+
+## 3. Input Router Decisions
+
+| Source | Type | Use it for | Distance rule | Notes |
+|---|---|---|---|---|
+| | | | | |
+
+Clone/rebuild permission status:
+
+- User-owned:
+- Client-authorized:
+- Third-party reference only:
+- Permission notes:
+
+Distance rule:
+
+- Near: user-owned or authorized rebuild
+- Medium: category conventions and broad component inspiration
+- Far: third-party references and competitors
+
+## 4. Trend and Taste Scan
+
+- Scan date:
+- Sources checked:
+- Relevant current taste signals:
+- Trends to use:
+- Trends to reject:
+- Audience-specific taste notes:
+- Staleness risks:
+
+Decision weights:
+
+- Business goal and conversion:
+- Audience expectations:
+- Brand fit and differentiation:
+- Current trend/taste signals:
+- Builder feasibility and performance:
+
+## 5. Premium Mode
 
 Choose one:
 
@@ -28,7 +81,7 @@ Choose one:
 
 Reason:
 
-## 3. Source Assets
+## 6. Source Assets
 
 - Desktop hero reference:
 - Clean desktop background:
@@ -40,7 +93,15 @@ Reason:
 - Logos:
 - Other:
 
-## 4. Art Bible
+## 7. Reference Transformation Rules
+
+- What can be borrowed as principle:
+- What must be changed:
+- What must not be copied:
+- Originality requirement:
+- Reference-distance target:
+
+## 8. Art Bible
 
 ### Mood
 
@@ -64,7 +125,7 @@ Reason:
 
 ### Anti-Slop Rules
 
-## 5. Section Storyboard
+## 9. Section Storyboard
 
 | Section | Purpose | Visual idea | Copy role | Motion role | Mobile behavior |
 |---|---|---|---|---|---|
@@ -77,7 +138,7 @@ Reason:
 | Objections | | | | | |
 | Final CTA | | | | | |
 
-## 6. Signature Moment
+## 10. Signature Moment
 
 - Moment:
 - Why it matters:
@@ -85,7 +146,7 @@ Reason:
 - Fallback:
 - Reduced-motion behavior:
 
-## 7. Build Rules
+## 11. Build Rules
 
 - Real UI must be HTML/CSS/JS, not baked into images.
 - Desktop and mobile must be designed together.
@@ -93,8 +154,10 @@ Reason:
 - Motion must respect `prefers-reduced-motion`.
 - Layout must not rely on fragile absolute positioning for core content.
 - Text must be readable at all breakpoints.
+- Third-party references must be transformed, not copied.
+- Source code, logos, images, video, and copy from third-party sites must not be reused without rights.
 
-## 8. QA Rubric
+## 12. QA Rubric
 
 - Composition fidelity:
 - Typography quality:
@@ -105,5 +168,6 @@ Reason:
 - Performance:
 - Accessibility:
 - Motion restraint:
+- Trend fit:
+- Reference distance:
 - Anti-slop score:
-
