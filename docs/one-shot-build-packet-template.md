@@ -35,6 +35,18 @@ List all available inputs:
 |---|---|---|---|---|
 | | | | | |
 
+Input quality score:
+
+- Relevance:
+- Clarity:
+- Originality:
+- Brand fit:
+- Conversion usefulness:
+- Technical usefulness:
+- Rights / permission:
+- Freshness:
+- Source role: Lead | Support | Constraint | Rejection | Do not use
+
 Clone/rebuild permission status:
 
 - User-owned:
@@ -57,6 +69,8 @@ Distance rule:
 - Trends to reject:
 - Audience-specific taste notes:
 - Staleness risks:
+- Taste memory matches:
+- Taste memory warnings:
 
 Decision weights:
 
@@ -80,6 +94,12 @@ Choose one:
 - Wellness / ritual / calm commerce
 
 Reason:
+
+Delivery mode:
+
+- Quick Concept
+- Premium Concept
+- Production-Ready Build
 
 ## 6. Source Assets
 

@@ -38,6 +38,10 @@ The system turns those inputs into a build packet:
 
 - [Premium Site OS Methodology](docs/premium-site-os-methodology.md)
 - [Multisource Adaptive Site OS](docs/multisource-adaptive-site-os.md)
+- [MVP Essentials](docs/mvp-essential-workflows.md)
+- [Client Intake Form](docs/client-intake-form.md)
+- [Case Study Library Template](docs/case-study-library-template.md)
+- [Hermes Agent Integration Notes](docs/hermes-agent-integration.md)
 - [One Image to Website System](docs/one-image-to-website-system.md)
 - [Transcript Methodology Extraction](docs/transcript-methodology-extraction.md)
 - [One-Shot Build Packet Template](docs/one-shot-build-packet-template.md)
