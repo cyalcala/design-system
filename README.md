@@ -39,6 +39,13 @@ The system turns those inputs into a build packet:
 - [Premium Site OS Methodology](docs/premium-site-os-methodology.md)
 - [Disciplines, Methods, and Powers Register](docs/disciplines-methods-powers-register.md)
 - [Multisource Adaptive Site OS](docs/multisource-adaptive-site-os.md)
+- [Awwwards-Style Source Registry](docs/awwwards-style-source-registry.md)
+- [Awwwards Motion Pattern Taxonomy](docs/awwwards-motion-pattern-taxonomy.md)
+- [Awwwards Stack Decision Guide](docs/awwwards-stack-decision-guide.md)
+- [Awwwards Commercial Safety Rules](docs/awwwards-commercial-safety-rules.md)
+- [Awwwards Motion QA Rubric](docs/awwwards-motion-qa-rubric.md)
+- [Awwwards Learning Path](docs/awwwards-learning-path.md)
+- [Awwwards Pattern Cards](docs/awwwards-pattern-cards.md)
 - [MVP Essentials](docs/mvp-essential-workflows.md)
 - [Client Intake Form](docs/client-intake-form.md)
 - [Case Study Library Template](docs/case-study-library-template.md)
@@ -47,3 +54,9 @@ The system turns those inputs into a build packet:
 - [Transcript Methodology Extraction](docs/transcript-methodology-extraction.md)
 - [One-Shot Build Packet Template](docs/one-shot-build-packet-template.md)
 - [Anti-Slop and Premium QA Rubric](docs/anti-slop-premium-qa-rubric.md)
+
+## Skill
+
+- [Premium Site OS Skill](skills/premium-site-os/SKILL.md)
+
+The repo is the knowledge base. The skill is the compact operating interface that tells Codex how to route links, images, transcripts, brand notes, Awwwards-style sources, and client goals into source scoring, art direction, build packets, and QA.

@@ -166,7 +166,21 @@ Delivery mode:
 - Fallback:
 - Reduced-motion behavior:
 
-## 11. Build Rules
+## 11. Awwwards-Style Motion Plan
+
+- Source patterns studied:
+- Signature motion family:
+- Support motion families:
+- Motion stack:
+- Smooth scroll choice:
+- Pinned sections:
+- Text reveal plan:
+- Video/canvas/3D assets:
+- Mobile simplification:
+- Performance risks:
+- Commercial safety notes:
+
+## 12. Build Rules
 
 - Real UI must be HTML/CSS/JS, not baked into images.
 - Desktop and mobile must be designed together.
@@ -177,7 +191,7 @@ Delivery mode:
 - Third-party references must be transformed, not copied.
 - Source code, logos, images, video, and copy from third-party sites must not be reused without rights.
 
-## 12. QA Rubric
+## 13. QA Rubric
 
 - Composition fidelity:
 - Typography quality:
